@@ -1,0 +1,12 @@
+.footer-informativo {
+    text-align: center;
+    background-color: grey;
+    max-width: 100%;
+    min-height: 120px;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+footer .footer-informativo .cor-coracao {
+    color: red;
+}
